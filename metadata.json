@@ -1,0 +1,5 @@
+{
+  "name": "ClearView AI - Watermark Remover",
+  "description": "A professional AI-powered tool to remove watermarks from photos and reconstruct clean videos using Gemini and Veo models.",
+  "requestFramePermissions": []
+}
